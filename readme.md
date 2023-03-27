@@ -2,4 +2,6 @@ Git hub practice.
 With Mike G and Bradley
 
 ## Branch Created by Mike
-add new text trying to push to branch
+Hi Bradley! 
+Hi Mike!
+Hope it works this time! 
